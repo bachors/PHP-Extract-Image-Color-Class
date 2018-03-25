@@ -1,7 +1,7 @@
 # PHP-Extract-Image-Color-Class
 PHP Extract Image Color Class a library to extract the color from internal or external image.
 
-<h3><a href="http://ibacor.com/download/demo/extractImageColor/">LIVE DEMO</a></h3>
+<h3><a href="http://bachors.com/tools/image-color-extractor">LIVE DEMO</a></h3>
 
 <h3>USAGE:</h3>
 <pre>
